@@ -8,6 +8,12 @@ public class Hat {
         System.out.println("It's me....");
 
 
+        //adding more notes.
+
+
+        //more line
+
+
 
 
     }
