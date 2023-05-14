@@ -3,7 +3,7 @@ public class Store {
 
         System.out.println("Deli Market Sale");
 
-
+        System.out.println("All Cold cuts on sale this weekend");
 
 
 
